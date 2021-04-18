@@ -1,0 +1,11 @@
+.required {
+  color: red;
+}
+
+.text {
+  width: 67%;
+}
+
+.special {
+  width: 70% !important;
+}
